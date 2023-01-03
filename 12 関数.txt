@@ -1,0 +1,4 @@
+スコープとは変数や関数の引数などを参照できる範囲を決めるもの
+
+関数とスコープ
+https://jsprimer.net/basic/function-scope/
